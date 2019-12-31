@@ -1,1 +1,3 @@
-include ':sample', ':base-adapter-library', ':baseadapter-recyclerview'
+include ':app'
+include ':BaseLVAdapter'
+include ':BaseRVAdapter'
